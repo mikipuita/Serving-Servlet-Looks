@@ -9,10 +9,10 @@ This project involves developing a three-tier web-based application using servle
 - **Back-End (MySQL Database)**: Stores and maintains the project4 database.
 
 ## Key Features
-- Authentication: Users are authenticated against a credentialsDB via a servlet.
-- User Levels: Root-level, client-level, data entry-level, and accountant-level users have different privileges and access to functionalities.
-- Business Logic: Implemented in servlets, such as incrementing supplier status based on shipment quantities.
-- Data Manipulation: Users can interact with the database through a variety of SQL commands, including prepared statements for safe data entry operations and the ability to execute custom SQL queries. Additionally, users can utilize callable statements to execute remote stored procedures securely.
+- **Authentication**: Users are authenticated against a credentialsDB via a servlet.
+- **User Levels:** Root-level, client-level, data entry-level, and accountant-level users have different privileges and access to functionalities.
+- **Business Logic:** Implemented in servlets, such as incrementing supplier status based on shipment quantities.
+- **Data Manipulation:** Users can interact with the database through a variety of SQL commands, including prepared statements for safe data entry operations and the ability to execute custom SQL queries. Additionally, users can utilize callable statements to execute remote stored procedures securely.
   
 ## Technologies Used
 - Java
