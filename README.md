@@ -1,7 +1,7 @@
 # Serving-Servlet-Looks
 
 ## Description
-This project involves developing a three-tier web-based application using servlets and JSP technology running on a Tomcat server to access and maintain a MySQL database. The application interacts with a suppliers/parts/jobs/shipments database named project4. Users access the application through an HTML landing page for authentication and are then directed to different JSP pages based on their user level. 
+This project involves developing a three-tier web-based application using servlets and JSP technology running on a Tomcat server to access and maintain a MySQL database. The application interacts with a suppliers/parts/jobs/shipments database named project4. Users access the application through an HTML landing page for authentication and are then directed to different JSP pages based on their user level, with different access to commands and modifications on the database.
 
 ## Project Components
 - **Front-End**: HTML landing page for authentication and JSP pages for different user levels.
